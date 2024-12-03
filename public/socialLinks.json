@@ -1,0 +1,31 @@
+[{
+    "name": "微信",
+    "icon": "/images/icon/weixin.png",
+    "tip": "加个微信？！",
+    "url": "weixin://addfriend/AQing_Service"
+}, {
+    "name": "抖音",
+    "icon": "/images/icon/tiktok.png",
+    "tip": "抖音逛一逛",
+    "url": "https://v.douyin.com/DTk4rPP/"
+}, {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "有什么事吗",
+    "url": "https://res.abeim.cn/api/qq/?qq=24279204"
+}, {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:24279204@qq.com"
+}, {
+    "name": "Twitter",
+    "icon": "/images/icon/twitter.png",
+    "tip": "你懂的 ~",
+    "url": "https://twitter.com/AQingService"
+}, {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "你懂的 ~",
+    "url": "https://t.me/AQing_Service"
+}]
