@@ -49,27 +49,27 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "http://blog.aqing.love:10088",
+    link: "http://blog.aqingyun.com/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "http://wp.aqing.love:10086",
+    link: "http://wp.aqingyun.com:10010",
   },
   {
     icon: Eye,
     name: "监控",
-    link: "https://jk.aqing.love/",
+    link: "https://jk.aqingyun.com/",
   },
   {
     icon: Fire,
     name: "热点",
-    link: "https://hot.aqing.love/",
+    link: "https://hot.aqingyun.com/",
   },
   {
     icon: Book,
     name: "网址集",
-    link: "https://web.aqing.love/",
+    link: "https://web.aqingyun.com/",
   },
   {
     icon: Heart,
