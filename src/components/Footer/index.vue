@@ -3,7 +3,7 @@
     <div class="power" v-show="!store.playerState">
       <span
         >Copyright&nbsp;&copy;&nbsp;{{ fullYear }}
-        <a href="https://aqing.love">沐尘</a>
+        <a href="https://aqingyun.com">阿清</a>
       </span>
       <!-- 以下信息请不要修改哦 -->
       </div>
